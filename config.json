@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-data-cleaning",
+      "title": "CSV Data Cleaning Challenge",
+      "description": "Practice cleaning messy CSV data in Python by standardizing values, handling missing information, and producing a simple summary report.",
+      "path": "assignments/csv-data-cleaning",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Data",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
